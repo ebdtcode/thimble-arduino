@@ -40,3 +40,9 @@ Repo structure
     Motor_Driver.zip
     night_light_sketch
     robot_friend_sketch
+
+# Harvest Tech Fair - Ignite your future projects
+
+1. Say Hello and display your name (LCD display, type your in the code 'Hello, yourname')
+2. Light On when dark and light out when bright (Light sensor, led)
+3. Intruder Alarm
